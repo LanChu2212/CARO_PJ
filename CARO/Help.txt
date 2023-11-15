@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+                                                            _    _ ______ _      _____  
+                                                           | |  | |  ____| |    |  __ \ 
+                                                           | |__| | |__  | |    | |__) |
+                                                           |  __  |  __| | |    |  ___/ 
+                                                           | |  | | |____| |____| |     
+                                                           |_|  |_|______|______|_|                            
+						+-+
+						|W|                Esc : BACK
+						+-+      *Player need to use W, S, A, D to move/Enter to play X,O.
+					    +-+ +-+ +-+  *The person who has five X or O continous first will win.   
+					    |A| |S| |D|  *Time Limit: 10 minutes.If the Time limit is up,The result 
+					    +-+ +-+ +-+   of the match will be counted as a draw.
+							  _                                 _  
+		  					 / \                               / \           ▲   
+							( A )  MOVE LEFT <-               ( W )  MOVE UP |
+							 \_/ 				   \_/ 
+
+		      					   O))                             O))  
+							  O))                           O))  O))  
+							 O))                          O))      O))
+							O)O))))O)))))                      O)) 
+							 O))                __  __         O)) 
+							   O))             / /  \ \        O)) 
+							    O))           / /    \ \       O)) 
+							  _               \ \    / /         _  
+							 / \ 	           \_\  /_/         / \ 	 
+							( D ) MOVE RIGHT->		   ( S ) MOVE DOWN |
+							 \_/			            \_/            ▼ 
+
+							      O))                          O)) 
+								 O))                       O))
+							          O))                      O)) 
+						          O))))O))))O))                    O)) 
+								  O))  	              O))      O))
+								 O))	                O))  O))  
+							       O))			  O))  
+														           
+														             
+                    
+ 
