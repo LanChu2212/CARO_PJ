@@ -1,0 +1,7 @@
+﻿  gpt4.cpp
+C:\Users\FPT\source\repos\gpt4\gpt4\gpt4.cpp(201,64): warning C4838: conversion from '__int64' to 'const long' requires a narrowing conversion
+C:\Users\FPT\source\repos\gpt4\gpt4\gpt4.cpp(201,64): warning C4309: 'initializing': truncation of constant value
+C:\Users\FPT\source\repos\gpt4\gpt4\gpt4.cpp(202,68): warning C4838: conversion from '__int64' to 'const long' requires a narrowing conversion
+C:\Users\FPT\source\repos\gpt4\gpt4\gpt4.cpp(202,68): warning C4305: 'initializing': truncation from '__int64' to 'const long'
+C:\Users\FPT\source\repos\gpt4\gpt4\gpt4.cpp(202,68): warning C4309: 'initializing': truncation of constant value
+  gpt4.vcxproj -> C:\Users\FPT\source\repos\gpt4\x64\Debug\gpt4.exe
